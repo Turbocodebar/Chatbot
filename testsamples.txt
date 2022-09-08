@@ -1,0 +1,35 @@
+Chatbot test samples
+
+
+///1st sample conversation 
+
+User: Hi
+Chatbot: Hi!
+User: What game should I play today
+Chatbot: What type of game are you interested in ?
+User: I am interested in war games 
+Chatbot: COD MW3
+User: thank you bye
+Chatbot: Goodbye.
+
+///2nd sample conversation 
+
+User: Hey
+Chatbot: Hey There!
+User: What Music should I listen to 
+Chatbot: What genre are you interested in ?
+User: Alternative
+Chatbot: AJR - Bang
+User: bye
+Chatbot: Goodbye.
+
+//3rd sample conversation 
+
+User: hi
+Chatbot: Hi!
+User: What is Corona?
+Chatbot: Are you referring to the beer?
+User: no, I am referring to the virus
+Chatbot: Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.(WHO)
+User: bye
+Chatbot: See you later!
